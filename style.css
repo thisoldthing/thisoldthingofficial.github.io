@@ -13,6 +13,7 @@ header {
     height: 50px;
     line-height: 50px;
     background-color: #eee;
+    font-family: 'Shrikhand', cursive;
 }
 
 header * {
