@@ -50,6 +50,7 @@ section {
 .profile-img {
     width: 200px;
     height: 150px;
+    margin-top: 15px;
     margin-right: 1000px;
     border-radius: 80%;
     margin: 10px;
