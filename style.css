@@ -43,10 +43,15 @@ section {
     background-attachment: fixed; /* Add this line */
 }
 
-#hero .profile-img {
+#hero .head-icon{
+    width: 300px;
+    border-radius: 50%;
+}
+
+.profile-img {
     width: 300px;
     height: 500px;
-    margin-right: 2000px;
+    margin-right: 300px;
     border-radius: 50%;
 }
 
