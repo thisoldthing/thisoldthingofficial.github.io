@@ -11,7 +11,7 @@ header {
     right: 0;
     height: 50px;
     line-height: 50px;
-    background-color: #eee;
+    background-color: #ffffff;
     font-family: 'Shrikhand', cursive;
 }
 
@@ -30,7 +30,7 @@ header li {
 
 section {
     height: 100vh;
-    border: 1px solid black;
+    border: 1px solid grey;
     display: flex;
     justify-content: center;
     align-items: center;
