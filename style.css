@@ -28,6 +28,9 @@ header li {
     margin-top: -10px;
     list-style-type: none;
 }
+li {
+    list-style-type: none;
+}
 
 section {
     height: 100vh;
