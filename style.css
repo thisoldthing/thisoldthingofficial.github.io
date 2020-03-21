@@ -20,11 +20,11 @@ header * {
 }
 
 header ul {
-    padding: 0;
+    padding: 10;
 }
 
 header li {
-    margin-right: -100px;
+    margin-right: -150px;
     list-style-type: none;
 }
 
