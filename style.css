@@ -5,7 +5,6 @@ body {
 }
 
 header {
-
     position: fixed;
     top: 0;
     left: 0;
@@ -25,7 +24,7 @@ header ul {
 }
 
 header li {
-    margin-right: 300px;
+    margin-right: -300px;
     list-style-type: none;
 }
 
