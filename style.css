@@ -25,6 +25,7 @@ header ul {
 
 header li {
     margin-right: -500px;
+    margin-top: -10px;
     list-style-type: none;
 }
 
